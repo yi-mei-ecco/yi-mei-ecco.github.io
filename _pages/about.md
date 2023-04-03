@@ -1,12 +1,18 @@
 ---
 permalink: /
-title: "Welcome to Yi Mei's academic homepage!"
+title: "A/Prof. Yi Mei"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Associate Professor\\
+Postgraduate Coordinator (Science) \\
+Evolutionary Computation and Machine Learning Research Group ([ECRG](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome))\\
+School of Engineering and Computer Science ([SECS](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science))\\
+Victoria University of Wellington
 
 NEWS
 ======
