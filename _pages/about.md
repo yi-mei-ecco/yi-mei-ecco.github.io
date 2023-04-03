@@ -35,12 +35,15 @@ NEWS
 
 Research Interests
 ======
-- Evolutionary Computation and Learning
-- Combinatorial Optimisation
-- Genetic Programming
-- Multi-objective Optimisation and Decision Making
-- AI Planning and Scheduling
-- Explainable AI
+<ul>
+<li>Evolutionary Computation and Learning</li>
+<li>Combinatorial Optimisation</li>
+<li>Genetic Programming</li>
+<li>Automated Algorithm Design / Hyper-Heuristics</li>
+<li>Multi-objective Optimisation and Decision Making</li>
+<li>AI Planning and Scheduling</li>
+<li>Explainable AI
+</ul>
 
 Biography
 ======
