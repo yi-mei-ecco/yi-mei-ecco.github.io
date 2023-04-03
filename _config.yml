@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "A/Prof. Yi Mei"
-  avatar           : "profile.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         : Victoria University of Wellington
+  avatar           : "profile.jpg"
+  bio              : "Associate Professor, Fellow of Engineering New Zealand, IEEE Senior Member"
+  location         : "Wellington, New Zealand"
+  employer         : "Victoria University of Wellington"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=vTC_7_wAAAAJ&hl=en"
   email            : yi.mei@ecs.vuw.ac.nz
