@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi Mei"
+title                    : "Yi Mei's homepage"
 title_separator          : "-"
 name                     : &name "Yi Mei"
 description              : &description "personal description"
