@@ -10,7 +10,7 @@ redirect_from:
 
 Associate Professor\\
 Postgraduate Coordinator (Science) \\
-Evolutionary Computation for Combinatorial Optimisation Group ([ECCO](https://vuw-ecco.netlify.app/))
+Evolutionary Computation for Combinatorial Optimisation Group ([ECCO](https://vuw-ecco.netlify.app/))\\
 Evolutionary Computation and Machine Learning Research Group ([ECRG](https://ecs.wgtn.ac.nz/Groups/ECRG/WebHome))\\
 School of Engineering and Computer Science ([SECS](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science))\\
 Victoria University of Wellington
@@ -27,10 +27,20 @@ NEWS
 <li><span style="color: #FF0000"><b>[Best PhD Dissertation Award]</b></span>: <a href="https://fangfang-zhang.github.io">Dr. Fangfang Zhang</a>'s PhD thesis "<a href="https://openaccess.wgtn.ac.nz/articles/thesis/Genetic_Programming_Hyper-heuristics_for_Dynamic_Flexible_Job_Shop_Scheduling/16528677/1">Genetic Programming Hyper-heuristics for Dynamic Flexible Job Shop Scheduling</a>" won the 2022 <a href="https://sig.sigevo.org/index.html/tiki-index.php?page=SIGEVO+Dissertation+Award#SIGEVO_Dissertation_Award">ACM SIGEVO Dissertation Award (Honorable Mention)</a>.</li>
 <li><span style="color: #FF0000"><b>[Best Paper Award]</b></span>: <a href="https://ecs.wgtn.ac.nz/Main/GradZhixingHuang">Zhixing Huang</a>'s paper "<a href="https://meiyi1986.github.io/publication/huang-2022-investigation/">An Investigation of Multitask Linear Genetic Programming for Dynamic Job Shop Scheduling</a>" won the <b>Best Paper Award</b> of <i><a href="http://www.evostar.org/2022/eurogp/">European Conference on Genetic Programming (EuroGP)</a></i> 2022.</li>
 <!-- ![](/img/eurogp2022_BP_certificate.png) -->
-<li>Our <span style="color: #FF0000">new book</span> published: "<a href="https://link.springer.com/book/10.1007/978-981-16-4859-5"><strong>Genetic Programming for Production Scheduling: An Evolutionary Learning Approach</strong></a>", Springer.</li>
+<li>Our <span style="color: #FF0000">new book</span> published: "<a href="https://link.springer.com/book/10.1007/978-981-16-4859-5"><strong>Genetic Programming for Production Scheduling: An Evolutionary Learning Approach</strong></a>", Springer (XXXIII+338 pages, <span style="color: #0000a0">the first book on hyper-heuristic for production scheduling</span>).</li>
 <!-- ![](/img/gp-book-cover.jpg) -->
 <!-- - I gave a **tutorial:** <a href="https://meiyi1986.github.io/cec2021-tutorial-xaigp/">**Towards Better Explainable AI Through Genetic Programming**</a> at <a href="https://cec2021.mini.pw.edu.pl">**IEEE Congress on Evolutionary Computation (CEC) 2021**</a>. [<a href="/files/xai-gp.pdf">Slides</a>] -->
+</ul>
 
+
+Research Interests
+======
+- Evolutionary Computation and Learning
+- Combinatorial Optimisation
+- Genetic Programming
+- Multi-objective Optimisation and Decision Making
+- AI Planning and Scheduling
+- Explainable AI
 
 Biography
 ======
