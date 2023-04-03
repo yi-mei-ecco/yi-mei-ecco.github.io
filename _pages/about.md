@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Yi Mei's academic homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+NEWS
+======
+
+- <font color="red">**[PhD Vacancy]**</font> I am looking for **PhD/MSc/Honours/Summer Research** students in the following topics. If you have similar research interests with me, please do not hesitate to <a href="#contact">contact</a> me. <br/>
+<b>中国国家留学基金委合作奖学金</b>请点击<a href="/vuw-csc/">这里</a>.
+  - **Evolutionary scheduling and combinatorial optimisation**
+  - **Evolutionary multi-objective optimisation**
+  - **Explainable AI**
+  - **Transfer and multitask optimisation**
+  - **Automatic algorithm design, hyper-heuristics**
+  - **Genetic programming, symbolic regression**
+  - **Simulation optimisation**
+- <font color="red">**[Call for papers]**</font> We are organising <a href="https://meiyi1986.github.io/cec2023-esco/">**The Special Session on Evolutionary Scheduling and Combinatorial Optimisation**</a> at <a href="https://2023.ieee-cec.org/">**IEEE Congress on Evolutionary Computation 2023**</a>. Submission due date: **13 Jan, 2023**.
+- <font color="red">**[Best Paper Award]**</font> <a href="https://ecs.victoria.ac.nz/Main/GradShaolinWang">Shaolin Wang</a>'s paper "<a href="https://meiyi1986.github.io/publication/wang-2022-local/">Local Ranking Explanation for Genetic Programming Evolved Routing Policies for Uncertain Capacitated Arc Routing Problems</a>" won the ECOM track <b>Best Paper Award</b> of the <i><a href="https://gecco-2022.sigevo.org/">ACM Genetic and Evolutionary Computation Conference (GECCO)</a></i> 2022. <br/>
+Congratulations, Shaolin!
+<!-- ![](/img/gecco2022_BP_Award_small.png) -->
+- <font color="red">**[Best PhD Dissertation Award]**</font> <a href="https://fangfang-zhang.github.io">Dr. Fangfang Zhang</a>'s PhD thesis "<a href="https://openaccess.wgtn.ac.nz/articles/thesis/Genetic_Programming_Hyper-heuristics_for_Dynamic_Flexible_Job_Shop_Scheduling/16528677/1">Genetic Programming Hyper-heuristics for Dynamic Flexible Job Shop Scheduling</a>" won the <b>2022 <a href="https://sig.sigevo.org/index.html/tiki-index.php?page=SIGEVO+Dissertation+Award#SIGEVO_Dissertation_Award">ACM SIGEVO Best PhD Dissertation Award (Honorable Mention)</a></b>. <br/>
+Congratulations, Fangfang!
+- <font color="red">**[Best Paper Award]**</font> <a href="https://ecs.wgtn.ac.nz/Main/GradZhixingHuang">Zhixing Huang</a>'s paper "<a href="https://meiyi1986.github.io/publication/huang-2022-investigation/">An Investigation of Multitask Linear Genetic Programming for Dynamic Job Shop Scheduling</a>" won the <b>Best Paper Award</b> of <i><a href="http://www.evostar.org/2022/eurogp/">European Conference on Genetic Programming (EuroGP)</a></i> 2022. <br/>
+Congratulations, Zhixing!
+<!-- ![](/img/eurogp2022_BP_certificate.png) -->
+- Our <font color="red">new book</font> published: "<a href="https://link.springer.com/book/10.1007/978-981-16-4859-5"><strong>Genetic Programming for Production Scheduling: An Evolutionary Learning Approach</strong></a>", Springer
+<!-- ![](/img/gp-book-cover.jpg) -->
+- I gave a **tutorial:** <a href="https://meiyi1986.github.io/cec2021-tutorial-xaigp/">**Towards Better Explainable AI Through Genetic Programming**</a> at <a href="https://cec2021.mini.pw.edu.pl">**IEEE Congress on Evolutionary Computation (CEC) 2021**</a>. [<a href="/files/xai-gp.pdf">Slides</a>]
+
+
+Biography
+======
+Dr. Yi Mei is an Associate Professor at the School of Engineering and Computer Science, Victoria University of Wellington, Wellington, New Zealand. 
+
+His research interests include evolutionary computation for combinatorial optimisation, genetic programming, automatic algorithm design, explainable AI, multi-objective optimisation, transfer/multitask learning and optimisation. He has published on top journals in EC and Operations Research (OR) such as IEEE TEVC, IEEE TCYB, EJOR, IEEE Transactions on Services Computing, and ACM Transactions on Mathematical Software. He won an IEEE Transactions on Evolutionary Computation Outstanding Paper Award 2017, a GECCO Best Paper Award 2022, and the EuroGP Best Paper Award 2022. 
+
+He is an Associate Editor of IEEE Transactions on Evolutionary Computation, and an Editorial Board Member/Associate Editor of four other international journals. He is the Chair of the IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation. He serves as a Vice-Chair of the IEEE CIS Emergent Technologies Technical Committee, and a member of three IEEE CIS Task Forces and two IEEE CIS Technical Committees. He is a Fellow of Engineering New Zealand and an IEEE Senior Member.
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 A data-driven personal website
 ======
