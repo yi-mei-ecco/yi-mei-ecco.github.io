@@ -42,7 +42,7 @@ Research Interests
 <li>Automated Algorithm Design / Hyper-Heuristics</li>
 <li>Multi-objective Optimisation and Decision Making</li>
 <li>AI Planning and Scheduling</li>
-<li>Explainable AI
+<li>Explainable AI</li>
 </ul>
 
 Biography
