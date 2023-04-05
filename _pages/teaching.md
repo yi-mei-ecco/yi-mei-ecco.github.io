@@ -5,6 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### 2023
+
+- <a href="https://www.wgtn.ac.nz/courses/comp/307/2023/offering?crn=968">Fundamentals of Artificial Intelligence (COMP307)</a> **[Course Co-Coordinator]**
+- <a href="https://www.wgtn.ac.nz/courses/aiml/420/2023/offering?crn=33065">Artificial Intelligence (AIML420)</a> **[Course Co-Coordinator]**
+- <a href="https://www.wgtn.ac.nz/courses/aiml/426/2023/offering?crn=33068">Evolutionary Computation and Learning (AIML426)</a> **[Course Coordinator]**
+- <a href="https://www.wgtn.ac.nz/courses/aiml/131/2023/offering?crn=35047">Introduction to Artificial Intelligence (AIML131)</a>
+
 ### 2022
 
 - <a href="https://www.wgtn.ac.nz/courses/comp/307/2022/offering?crn=968">Introduction to Artificial Intelligence (COMP307)</a> **[Course Coordinator]**
