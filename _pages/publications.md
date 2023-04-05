@@ -18,6 +18,7 @@ table, tr, td, th {
 <li><a href="#conference">Conference Papers</a></li>
 <li><a href="#chapter">Book Chapters</a></li>
 </ul>
+<hr>
 
 <a name="inpress"></a>In Press
 ======
