@@ -11,8 +11,13 @@ table, tr, td, th {
 }
 </style>
 
-
-<a href="#inpress">In Press</a>
+<ul>
+<li><a href="#inpress">In Press</a></li>
+<li><a href="#book">Authored Books</a></li>
+<li><a href="#journal">Refereed Journal Articles</a></li>
+<li><a href="#conference">Conference Papers</a></li>
+<li><a href="#chapter">Book Chapters</a></li>
+</ul>
 
 <a name="inpress"></a>In Press
 ======
@@ -275,7 +280,7 @@ Boxiong Tan, Hui Ma, Yi&nbsp;Mei, and Mengjie Zhang.
 </tr>
 </table><hr>
 
-Authored Books
+<a name="book"></a>Authored Books
 ======
 
 <table>
@@ -296,7 +301,7 @@ Fangfang Zhang, Su&nbsp;Nguyen, Yi&nbsp;Mei, and Mengjie Zhang.
 </tr>
 </table><hr>
 
-Refereed Journal Articles
+<a name="journal"></a>Refereed Journal Articles
 ======
 
 <table>
@@ -1175,7 +1180,7 @@ Yi&nbsp;Mei, Ke&nbsp;Tang, and Xin Yao.
 
 
 
-Conference Papers
+<a name="conference"></a>Conference Papers
 ======
 
 <table>
@@ -3219,7 +3224,7 @@ Yi&nbsp;Mei, Ke&nbsp;Tang, and Xin Yao.
 
 
 
-Book Chapters
+<a name="chapter"></a>Book Chapters
 ======
 
 <table>
