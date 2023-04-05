@@ -1092,7 +1092,7 @@ Mohammad&nbsp;Nabi Omidvar, Xiaodong Li, Yi&nbsp;Mei, and Xin Yao.
   optimization.
  <em>IEEE Transactions on Evolutionary Computation</em>, 18(3):378--393,
   2014.
- <b style="color:red;">(TEVC Outstanding Paper Award)</b> [&nbsp;<a href="publication-journal_bib.html#omidvar2014cooperative"nbsp;<a href="publication-journal_bib.html#omidvar2014cooperative">bib</a>&nbsp;| 
+ <b style="color:red;">(TEVC Outstanding Paper Award)</b> [&nbsp;<a href="publication-journal_bib.html#omidvar2014cooperative">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1109/TEVC.2013.2281543">DOI</a>&nbsp;| 
 <a href="https://bitbucket.org/mno/differential-grouping">Matlab Code</a>&nbsp;]
 
@@ -1204,7 +1204,7 @@ Shaolin Wang, Yi&nbsp;Mei, and Mengjie Zhang.
   policies for uncertain capacitated arc routing problems.
  In <em>Proceedings of the ACM Genetic and Evolutionary Computation
   Conference (GECCO)</em>, pages 314--322. ACM, jul 2022.
- <b style="color:red;">(ECOM Track Best Paper Award)</b> [&nbsp;<a href="publication-conf_bib.html#wang2022local"nbsp;<a href="publication-conf_bib.html#wang2022local">bib</a>&nbsp;| 
+ <b style="color:red;">(ECOM Track Best Paper Award)</b> [&nbsp;<a href="publication-conf_bib.html#wang2022local">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1145/3512290.3528723">DOI</a>&nbsp;]
 
 </td>
@@ -1408,7 +1408,7 @@ Zhixing Huang, Fangfang Zhang, Yi&nbsp;Mei, and Mengjie Zhang.
   job shop scheduling.
  In <em>Proceedings of the European Conference on Genetic Programming
   (EuroGP)</em>, pages 162--178. Springer, apr 2022.
- <b style="color:red;">(Best Paper Award)</b> [&nbsp;<a href="publication-conf_bib.html#huang2022investigation"nbsp;<a href="publication-conf_bib.html#huang2022investigation">bib</a>&nbsp;| 
+ <b style="color:red;">(Best Paper Award)</b> [&nbsp;<a href="publication-conf_bib.html#huang2022investigation">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1007/978-3-031-02056-8_11">DOI</a>&nbsp;]
 
 </td>
@@ -2417,7 +2417,7 @@ Alexandre&nbsp;Sawczuk da&nbsp;Silva, Hui Ma, Yi&nbsp;Mei, and Mengjie Zhang.
   service composition.
  In <em>Proceedings of the IEEE International Conference on Web
   Services (ICWS)</em>, pages 26--33. IEEE, apr 2018.
- <b style="color:red;">(Best Paper Runner-Up)</b> [&nbsp;<a href="publication-conf_bib.html#da2018hybrid"nbsp;<a href="publication-conf_bib.html#da2018hybrid">bib</a>&nbsp;| 
+ <b style="color:red;">(Best Paper Runner-Up)</b> [&nbsp;<a href="publication-conf_bib.html#da2018hybrid">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1109/ICWS.2018.00011">DOI</a>&nbsp;]
 
 </td>
@@ -2985,7 +2985,7 @@ Alexandre&nbsp;Sawczuk da&nbsp;Silva, Yi&nbsp;Mei, Hui Ma, and Mengjie Zhang.
  In <em>Proceedings of the European Conference on Evolutionary
   Computation in Combinatorial Optimization (EvoCOP)</em>, pages 202--218.
   Springer, 2016.
- <b style="color:red;">(Best Paper Nomination)</b> [&nbsp;<a href="publication-conf_bib.html#da2016particle"nbsp;<a href="publication-conf_bib.html#da2016particle">bib</a>&nbsp;| 
+ <b style="color:red;">(Best Paper Nomination)</b> [&nbsp;<a href="publication-conf_bib.html#da2016particle">bib</a>&nbsp;| 
 <a href="http://dx.doi.org/10.1007/978-3-319-30698-8_14">DOI</a>&nbsp;]
 
 </td>
