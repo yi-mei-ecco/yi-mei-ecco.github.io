@@ -3,7 +3,6 @@ bibtex2html/bibtex2html -nf url_code "Code" -nf codec "C Code" -nf codecpp "C++ 
 bibtex2html/bibtex2html -nf url_code "Code" -nf codec "C Code" -nf codecpp "C++ Code" -nf codemat "Matlab Code" -nf codejava "Java Code" -nf results Results publication-journal.bib
 bibtex2html/bibtex2html -nf url_code "Code" -nf codec "C Code" -nf codecpp "C++ Code" -nf codemat "Matlab Code" -nf codejava "Java Code" -nf results Results publication-conf.bib
 bibtex2html/bibtex2html -nf url_code "Code" -nf codec "C Code" -nf codecpp "C++ Code" -nf codemat "Matlab Code" -nf codejava "Java Code" -nf results Results publication-chapter.bib
-bibtex2html/bibtex2html -nf url_code "Code" -nf codec "C Code" -nf codecpp "C++ Code" -nf codemat "Matlab Code" -nf codejava "Java Code" -nf results Results publication-accepted.bib
 chmod go+r *.html
 
 
