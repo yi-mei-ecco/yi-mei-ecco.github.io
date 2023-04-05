@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <table>
 
 <tr valign="top">
