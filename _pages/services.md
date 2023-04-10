@@ -25,7 +25,7 @@ author_profile: true
 <li><strong>Sponsorship Chair</strong>, Australasian Joint Conference on Artificial Intelligence 2018</li>
 <li><strong>Technical Co-chair</strong>, International Conference on Data Intelligence and Security (ICDIS) 2018</li>
 <li><strong>Organisational Committee Member</strong>, International Conference on Computers and Industrial Engineering (CIE) 2018</li>
-<li><strong>Co-Chair</strong>, IEEE Symposium on Evolutionary Scheduling and Combinatorial Optimisation</a>, in IEEE SSCI 2019, 2020, 2021, 2022, 2023</li>
+<li><strong>Co-Chair</strong>, IEEE Symposium on Evolutionary Scheduling and Combinatorial Optimisation, in IEEE SSCI 2019, 2020, 2021, 2022, 2023</li>
 <li><strong>Co-chair</strong> of Special Session on Evolutionary Scheduling and Combinatorial Optimisation, IEEE Congress on Evolutionary Computation (CEC) 2016, 2017, 2018, 2019, 2020, 2021, 2022</li>
 <li><strong>Co-chair</strong> of Special Session on Evolutionary Computation for Service-Oriented Computing, IEEE Congress on Evolutionary Computation (CEC) 2017, 2018, 2019</li>
 <li><strong>Co-chair</strong> of Special Session on Transfer Learning in Evolutionary Computation, IEEE Congress on Evolutionary Computation (CEC) 2016</li>
@@ -133,7 +133,7 @@ I serve as a reviewer of 50+ international journals, including the top/major jou
 ## Membership
 
 <ul>
-<li><strong>Fellow</strong> of Engineering New Zealand</li>
+<li><strong>Fellow</strong> of <a href="https://www.engineeringnz.org/">Engineering New Zealand</a></li>
 <li><strong>Chair</strong> of <a href="https://homepages.ecs.vuw.ac.nz/~yimei/ieee-tf-esco/">IEEE Taskforce on Evolutionary Scheduling and Combinatorial Optimisation</a>, 2021-present</li>
 <li><strong>Chair</strong> of <a href="https://r10.ieee.org/nzc/">IEEE New Zealand Central Section</a>, 2021-present</li>
 <li><strong>Vice-chair</strong> of <a href="http://cis.ieee.org/emergent-technologies-tc.html/">IEEE CIS Emergent Technologies Technical Committee</a>, 2017-2018</li>
