@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### Grants
+# Grants
 
 <ul>
 <!--
@@ -27,7 +27,7 @@ author_profile: true
 <li><b>2009</b>, <a href="http://cis.ieee.org/graduate-student-research-grants.html">IEEE CIS Walter Karplus Summer Research Grant</a></li>
 </ul>
 
-### Awards
+# Awards
 
 <ul>
 <li><b>2022</b>, Victoria University of Wellington Post-Graduate Student Association <b>Supervisor Award</b> (Honourable Mention)</li>
