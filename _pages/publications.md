@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+My [Google Scholar Citation](https://scholar.google.com.au/citations?user=vTC_7_wAAAAJ&hl=en) is <b>5200+</b>, h-index is <b>37</b>.
+
+Full lists of my publications:
 
 <ul>
 <li><a href="publication-book.html">Authored Books</a></li>
