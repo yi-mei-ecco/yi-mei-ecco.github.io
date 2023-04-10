@@ -5,7 +5,7 @@ permalink: /supervision/
 author_profile: true
 ---
 
-# PhD
+## PhD
 
 <ol>
 <li><b>Junwei Pang</b> (Victoria University of Wellington, 2023): "TBD (with Prof Mengjie Zhang)</li>
@@ -38,7 +38,7 @@ author_profile: true
 Grouping Constrained Storage Location Assignment Problem" <a href="https://researchbank.rmit.edu.au/eserv/rmit:162142/Xie.pdf">[PhD thesis]</a> (with Dr Andy Song, Prof Andreas Ernst, and Prof Xiaodong Li)</i></li>
 </ol>
 
-# Masters
+## Masters
 
 <ol>
 <li><b>Thomson Thomas</b> (Victoria University of Wellington, 2022): "Evolutionary Computation for Cloud Resource Allocation"</li>
@@ -51,7 +51,7 @@ Grouping Constrained Storage Location Assignment Problem" <a href="https://resea
 </ol>
 
 
-# Honours Students
+## Honours Students
 
 <ol>
   <li><b>Callum Macaskill</b> (Victoria University of Wellington, 2022): "Genetic Programming for Online Delivery Allocation"</li>
@@ -70,19 +70,21 @@ Grouping Constrained Storage Location Assignment Problem" <a href="https://resea
 </ol>
 
 
-### Summer Research Scholarship Students
+## Summer Research Scholarship Students
 
-- __Gaofeng Shi__ (Victoria University of Wellington, 2021): "Genetic Programming for Dynamic Scheduling"
-- __Sean McGifford__ (Victoria University of Wellington, 2021): "Transfer Reinforcement learning in Games"
-- __Fergus Currie__ (Victoria University of Wellington, 2020): "Multi-Criteria Desicion Making for Fish Breeding Program" (NZ Data Science Program in collaboration with Plant and Food)
-- __Sai Panda__ (Victoria University of Wellington, 2020): "Interpretable Genetic Programming for Scheduling"
-- __Jordan MacLachlan__ (Victoria University of Wellington, 2019): "Genetic Programming for Uncertain Arc Routing"
-- __Jericho Jackson__ (Victoria University of Wellington, 2019): "Genetic Programming Hyper-heuristics for Stochastic Tourist Trip Design" (with Prof Mengjie Zhang)
-- __Shaolin Wang__ (Victoria University of Wellington, 2018): "Evolutionary Computation for Uncertain Arc Routing" (with Prof Mengjie Zhang)
-- __Jordan MacLachlan__ (Victoria University of Wellington, 2017): "Evolutionary Computation for Dynamic Arc Routing"
-- __Daniel Yska__ (Victoria University of Wellington, 2017): "Genetic Programming Hyper-heuristics for Flexible Job Shop Scheduling" (with Prof Mengjie Zhang)
-- __Josiah Jacobsen-Grocott__ (Victoria University of Wellington, 2016): "Evolutionary Computation for Dynamic Vehicle Routing"
-- __Scott Holdaway__ (Victoria University of Wellington, 2016): "Feature Extraction in NEAT for Atari Games" (with Dr Aaron Chen)
-- __Will Hardwick-Smith__ (Victoria University of Wellington, 2016): "Transfer Learning in NEAT for Atari Games" (with Dr Aaron Chen)
-- __Michael Riley__ (Victoria University of Wellington, 2015): "Evolutionary Computation for Dynamic Job Shop Scheduling"
-- __Longfei Yan__ (Victoria University of Wellington, 2015): "Evolutionary Web Service Composition" (with Dr Hui Ma)
+<ol>
+<li><b>Gaofeng Shi</b> (Victoria University of Wellington, 2021): "Genetic Programming for Dynamic Scheduling"</li>
+<li><b>Sean McGifford</b> (Victoria University of Wellington, 2021): "Transfer Reinforcement learning in Games"</li>
+<li><b>Fergus Currie</b> (Victoria University of Wellington, 2020): "Multi-Criteria Desicion Making for Fish Breeding Program" (NZ Data Science Program in collaboration with Plant and Food)</li>
+<li><b>Sai Panda</b> (Victoria University of Wellington, 2020): "Interpretable Genetic Programming for Scheduling"</li>
+<li><b>Jordan MacLachlan</b> (Victoria University of Wellington, 2019): "Genetic Programming for Uncertain Arc Routing"</li>
+<li><b>Jericho Jackson</b> (Victoria University of Wellington, 2019): "Genetic Programming Hyper-heuristics for Stochastic Tourist Trip Design" (with Prof Mengjie Zhang)</li>
+<li><b>Shaolin Wang</b> (Victoria University of Wellington, 2018): "Evolutionary Computation for Uncertain Arc Routing" (with Prof Mengjie Zhang)</li>
+<li><b>Jordan MacLachlan</b> (Victoria University of Wellington, 2017): "Evolutionary Computation for Dynamic Arc Routing"</li>
+<li><b>Daniel Yska</b> (Victoria University of Wellington, 2017): "Genetic Programming Hyper-heuristics for Flexible Job Shop Scheduling" (with Prof Mengjie Zhang)</li>
+<li><b>Josiah Jacobsen-Grocott</b> (Victoria University of Wellington, 2016): "Evolutionary Computation for Dynamic Vehicle Routing"</li>
+<li><b>Scott Holdaway</b> (Victoria University of Wellington, 2016): "Feature Extraction in NEAT for Atari Games" (with Dr Aaron Chen)</li>
+<li><b>Will Hardwick-Smith</b> (Victoria University of Wellington, 2016): "Transfer Learning in NEAT for Atari Games" (with Dr Aaron Chen)</li>
+<li><b>Michael Riley</b> (Victoria University of Wellington, 2015): "Evolutionary Computation for Dynamic Job Shop Scheduling"</li>
+<li><b>Longfei Yan</b> (Victoria University of Wellington, 2015): "Evolutionary Web Service Composition" (with Dr Hui Ma)</li>
+</ol>

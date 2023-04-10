@@ -13,10 +13,13 @@ main:
     url: /teaching/
 
   - title: "Supervision"
-    url: /supervision/      
+    url: /supervision/   
+
+  - title: "Services"
+    url: /services/   
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
