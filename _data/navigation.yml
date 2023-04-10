@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Grants&Awards"
-    url: /grantsawards/
-
   - title: "Publications"
     url: /publications/
+    
+  - title: "Grants&Awards"
+    url: /grantsawards/
 
   # - title: "Talks"
   #   url: /talks/    
