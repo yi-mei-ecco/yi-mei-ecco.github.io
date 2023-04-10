@@ -15,12 +15,16 @@ Evolutionary Computation and Machine Learning Research Group ([ECRG](https://ecs
 School of Engineering and Computer Science ([SECS](https://www.wgtn.ac.nz/engineering/school-of-engineering-and-computer-science))\\
 Victoria University of Wellington
 
-NEWS
-======
 
-<span style="color: #FF0000"><b>[PhD Vacancy]</b></span>: I am looking for <b>PhD/MSc/Honours/Summer Research</b> students in the following topics. If you have similar <a href="#research-interests">research interests</a> with me, please do not hesitate to <a href="mailto:yi.mei@ecs.vuw.ac.nz">contact</a> me. <br/>
+
+<span style="color: #FF0000"><b>[PhD Vacancy]</b></span>: I am looking for <b>PhD/MSc/Honours/Summer Research</b> students. If you have similar <a href="#research-interests">research interests</a> with me, please do not hesitate to <a href="mailto:yi.mei@ecs.vuw.ac.nz">contact</a> me. <br/>
 <b>中国国家留学基金委合作奖学金</b>请点击<a href="/vuw-csc/">这里</a>.
 {: .notice}
+
+
+
+NEWS
+======
 
 <ul>
 <!-- <li><span style="color: #FF0000"><b>[Call for papers]</b></span>: We are organising <a href="https://meiyi1986.github.io/cec2023-esco/">The Special Session on Evolutionary Scheduling and Combinatorial Optimisation</a> at <a href="https://2023.ieee-cec.org/">IEEE Congress on Evolutionary Computation 2023</a>. Submission due date: <span style="color: #FF0000"><b>13 Jan, 2023</b></span>.</li> -->
